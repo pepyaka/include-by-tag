@@ -1,0 +1,22 @@
+{
+    "cache_last_updated": null, 
+    "cache_url": null, 
+    "created": "2017-07-18T13:16:28.648926", 
+    "datastore_active": false, 
+    "description": "Adur District Council April 2009", 
+    "format": "CSV", 
+    "hash": "", 
+    "id": "281dffa6-ea9b-4446-be41-05dced06591f", 
+    "last_modified": null, 
+    "mimetype": "", 
+    "mimetype_inner": "", 
+    "name": "", 
+    "package_id": "beb6c3a6-098d-4389-b0a2-de0243728b42", 
+    "position": 0, 
+    "resource_type": "file", 
+    "revision_id": "7e854221-ec7f-4cad-b0f6-061406138181", 
+    "size": null, 
+    "state": "active", 
+    "url": "!include ../url/resources.0.json", 
+    "url_type": null
+}

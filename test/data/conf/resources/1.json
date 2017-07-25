@@ -1,0 +1,23 @@
+{
+    "cache_last_updated": null, 
+    "cache_url": null, 
+    "created": "2017-07-18T13:16:28.648955", 
+    "datastore_active": false, 
+    "description": "Mapping Metadata for Adur", 
+    "format": "JSON", 
+    "hash": "", 
+    "id": "6cce3936-b169-4d12-82ba-65fcb79734a0", 
+    "last_modified": null, 
+    "mimetype": "", 
+    "mimetype_inner": "", 
+    "name": "", 
+    "openspending_hint": "model", 
+    "package_id": "beb6c3a6-098d-4389-b0a2-de0243728b42", 
+    "position": 1, 
+    "resource_type": "file", 
+    "revision_id": "7e854221-ec7f-4cad-b0f6-061406138181", 
+    "size": null, 
+    "state": "active", 
+    "url": "!include ../url/resources.1.json", 
+    "url_type": null
+}

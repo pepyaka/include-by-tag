@@ -1,0 +1,5 @@
+{
+    "type": "arbitrary",
+    "sort": "",
+    "data": "!include resources/*.json"
+}

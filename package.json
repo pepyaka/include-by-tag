@@ -1,0 +1,48 @@
+{
+  "name": "include-by-tag",
+  "version": "0.0.1",
+  "description": "Include files by tag asynchronously",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/tap test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/pepyaka/include-by-tag"
+  },
+  "keywords": [
+    "config",
+    "recursive",
+    "async"
+  ],
+  "author": "Mikhail Bratchikov",
+  "license": "MIT",
+  "eslintConfig": {
+    "parserOptions": {
+      "ecmaVersion": 8,
+      "ecmaFeatures": {
+        "impliedStrict": true
+      }
+    },
+    "env": {
+      "es6": true,
+      "node": true
+    },
+    "rules": {
+      "strict": [
+        "error",
+        "safe"
+      ],
+      "semi": "error",
+      "no-console": 0
+    },
+    "extends": "eslint:recommended"
+  },
+  "engines": ">=8.0.0",
+  "dependencies": {
+    "glob": "^7.1.2"
+  },
+  "devDependencies": {
+    "tap": "^10.7.0"
+  }
+}

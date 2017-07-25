@@ -1,0 +1,4 @@
+{
+    "spatial": "!include extras/spatial.json",
+    "spatial-text": "!include extras/spatial-text.json"
+}
