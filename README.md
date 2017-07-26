@@ -1,8 +1,8 @@
 # Include by tag
 Library to include a file(s) within another file. It will **not** work on
-circular imports due to recursive startegy.
+circular imports due to recursive strategy.
 
-For example we have some configuration hierarhy of JSON configuration files:
+For example we have some configuration hierarchy of JSON configuration files:
 ```
 config
 ├── main.json
@@ -125,7 +125,8 @@ ibt.read('/etc/superapp/config', '/usr/lib/superapp/config')
 #### new IBT(options);
 ##### Options
 - `parser` *(Object, default: `JSON`)*: Any object that has `.parse` method. It
-  must return common Object
+  must return parsed Object. For example, to use YAML parser options must look
+  like `{ parser: { parse: require('js-yaml').safeLoad }}`
 - `includeTag` *(String, default: `!include`)*: Tag for include. Filepath
   followed by tag, ex. `!include ext/file.json`
 
