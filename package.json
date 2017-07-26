@@ -1,6 +1,6 @@
 {
   "name": "include-by-tag",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Include files by tag asynchronously",
   "main": "index.js",
   "scripts": {
