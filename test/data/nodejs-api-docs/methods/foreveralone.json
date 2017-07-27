@@ -1,0 +1,11 @@
+{
+  "textRaw": "require()",
+  "type": "method",
+  "name": "require",
+  "desc": "<p>This variable may appear to be global but is not. See <a href=\"modules.html#modules_require\"><code>require()</code></a>.</p>\n",
+  "signatures": [
+    {
+      "params": []
+    }
+  ]
+}

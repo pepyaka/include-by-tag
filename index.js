@@ -15,7 +15,6 @@ class IBT {
         const mainFilePathList = [].concat(...mainFilePath);
         const readMainFileList = mainFilePathList.map(mainFilePath => {
             const absMainFilePath = path.resolve(mainFilePath);
-            //return mainFunction(absMainFilePath, tag, parser);
             return readIncludes(absMainFilePath, tag, parser);
         });
         return Promise.all(readMainFileList)

@@ -6,14 +6,12 @@
   "scripts": {
     "test": "node_modules/.bin/tap --100 test"
   },
-  "repository": {
-    "type": "git",
-    "url": "github.com/pepyaka/include-by-tag"
-  },
+  "repository": "pepyaka/include-by-tag",
   "keywords": [
     "config",
     "recursive",
-    "async"
+    "async",
+    "include"
   ],
   "author": "Mikhail Bratchikov",
   "license": "MIT",
