@@ -1,0 +1,27 @@
+{
+  "id": 328735916,
+  "name": "EtOH",
+  "dataTypeName": "text",
+  "fieldName": "etoh",
+  "position": 21,
+  "renderTypeName": "text",
+  "tableColumnId": 31936592,
+  "width": 148,
+  "cachedContents": {
+    "largest": "Y",
+    "non_null": 772,
+    "null": 2811,
+    "top": [
+      {
+        "item": "Y",
+        "count": 20
+      },
+      {
+        "item": "y",
+        "count": 19
+      }
+    ],
+    "smallest": "y"
+  },
+  "format": {}
+}

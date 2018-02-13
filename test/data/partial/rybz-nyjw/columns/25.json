@@ -1,0 +1,39 @@
+{
+  "id": 328735925,
+  "name": "MannerofDeath",
+  "dataTypeName": "text",
+  "fieldName": "mannerofdeath",
+  "position": 30,
+  "renderTypeName": "text",
+  "tableColumnId": 31936601,
+  "width": 256,
+  "cachedContents": {
+    "largest": "Pending",
+    "non_null": 3576,
+    "null": 7,
+    "top": [
+      {
+        "item": "Accident",
+        "count": 20
+      },
+      {
+        "item": "Pending",
+        "count": 19
+      },
+      {
+        "item": "accident",
+        "count": 18
+      },
+      {
+        "item": "ACCIDENT",
+        "count": 17
+      },
+      {
+        "item": "Natural",
+        "count": 16
+      }
+    ],
+    "smallest": "accident"
+  },
+  "format": {}
+}

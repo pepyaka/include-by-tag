@@ -1,0 +1,12 @@
+{
+  "id": -1,
+  "name": "meta",
+  "dataTypeName": "meta_data",
+  "fieldName": ":meta",
+  "position": 0,
+  "renderTypeName": "meta_data",
+  "format": {},
+  "flags": [
+    "hidden"
+  ]
+}

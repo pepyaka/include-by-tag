@@ -1,0 +1,99 @@
+{
+  "id": 328735903,
+  "name": "Residence County",
+  "dataTypeName": "text",
+  "fieldName": "residence_county",
+  "position": 8,
+  "renderTypeName": "text",
+  "tableColumnId": 31936579,
+  "width": 292,
+  "cachedContents": {
+    "largest": "YANKTON",
+    "non_null": 2885,
+    "null": 698,
+    "top": [
+      {
+        "item": "WINDHAM",
+        "count": 20
+      },
+      {
+        "item": "LITCHFIELD",
+        "count": 19
+      },
+      {
+        "item": "HARTFORD",
+        "count": 18
+      },
+      {
+        "item": "NEW HAVEN",
+        "count": 17
+      },
+      {
+        "item": "MIDDLESEX",
+        "count": 16
+      },
+      {
+        "item": "FAIRFIELD",
+        "count": 15
+      },
+      {
+        "item": "TOLLAND",
+        "count": 14
+      },
+      {
+        "item": "DUTCHESS",
+        "count": 13
+      },
+      {
+        "item": "NEW LONDON",
+        "count": 12
+      },
+      {
+        "item": "PUTNAM",
+        "count": 11
+      },
+      {
+        "item": "ORANGE",
+        "count": 10
+      },
+      {
+        "item": "WESTCHESTER",
+        "count": 9
+      },
+      {
+        "item": "HAMPDEN",
+        "count": 8
+      },
+      {
+        "item": "NEW YORK",
+        "count": 7
+      },
+      {
+        "item": "ESSEX",
+        "count": 6
+      },
+      {
+        "item": "WORCESTER",
+        "count": 5
+      },
+      {
+        "item": "KINGS",
+        "count": 4
+      },
+      {
+        "item": "GLOUCESTER",
+        "count": 3
+      },
+      {
+        "item": "AROOSTOOK",
+        "count": 2
+      },
+      {
+        "item": "NEWPORT",
+        "count": 1
+      }
+    ],
+    "smallest": "AROOSTOOK"
+  },
+  "format": {}
+}

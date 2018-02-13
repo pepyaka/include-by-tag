@@ -1,0 +1,35 @@
+{
+  "id": 328735924,
+  "name": "Any Opioid",
+  "dataTypeName": "text",
+  "fieldName": "any_opioid",
+  "position": 29,
+  "renderTypeName": "text",
+  "tableColumnId": 31936600,
+  "width": 220,
+  "cachedContents": {
+    "largest": "Y",
+    "non_null": 710,
+    "null": 2873,
+    "top": [
+      {
+        "item": "Y",
+        "count": 20
+      },
+      {
+        "item": "N",
+        "count": 19
+      },
+      {
+        "item": "y",
+        "count": 18
+      },
+      {
+        "item": " ",
+        "count": 17
+      }
+    ],
+    "smallest": " "
+  },
+  "format": {}
+}

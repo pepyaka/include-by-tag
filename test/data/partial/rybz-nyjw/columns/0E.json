@@ -1,0 +1,83 @@
+{
+  "id": 328735902,
+  "name": "Residence State",
+  "dataTypeName": "text",
+  "fieldName": "residence_state",
+  "position": 7,
+  "renderTypeName": "text",
+  "tableColumnId": 31936578,
+  "width": 280,
+  "cachedContents": {
+    "largest": "UNKNOWN",
+    "non_null": 1663,
+    "null": 1920,
+    "top": [
+      {
+        "item": "CT",
+        "count": 20
+      },
+      {
+        "item": "NY",
+        "count": 19
+      },
+      {
+        "item": "GA",
+        "count": 18
+      },
+      {
+        "item": "IL",
+        "count": 17
+      },
+      {
+        "item": "MA",
+        "count": 16
+      },
+      {
+        "item": "FL",
+        "count": 15
+      },
+      {
+        "item": "CA",
+        "count": 14
+      },
+      {
+        "item": "MN",
+        "count": 13
+      },
+      {
+        "item": "NJ",
+        "count": 12
+      },
+      {
+        "item": "LA",
+        "count": 11
+      },
+      {
+        "item": "OH",
+        "count": 10
+      },
+      {
+        "item": "TX",
+        "count": 9
+      },
+      {
+        "item": "UNKNOWN",
+        "count": 8
+      },
+      {
+        "item": "SD",
+        "count": 7
+      },
+      {
+        "item": "SC",
+        "count": 6
+      },
+      {
+        "item": "CO",
+        "count": 5
+      }
+    ],
+    "smallest": "CA"
+  },
+  "format": {}
+}

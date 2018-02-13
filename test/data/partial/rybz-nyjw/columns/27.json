@@ -1,0 +1,19 @@
+{
+  "id": 328735927,
+  "name": "DeathLoc",
+  "dataTypeName": "location",
+  "fieldName": "deathloc",
+  "position": 32,
+  "renderTypeName": "location",
+  "tableColumnId": 31936604,
+  "width": 196,
+  "cachedContents": "!include 27/cachedContents.json",
+  "format": {},
+  "subColumnTypes": [
+    "human_address",
+    "latitude",
+    "longitude",
+    "machine_address",
+    "needs_recoding"
+  ]
+}

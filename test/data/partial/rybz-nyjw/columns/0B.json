@@ -1,0 +1,63 @@
+{
+  "id": 328735899,
+  "name": "Race",
+  "dataTypeName": "text",
+  "fieldName": "race",
+  "position": 4,
+  "renderTypeName": "text",
+  "tableColumnId": 31936575,
+  "width": 148,
+  "cachedContents": {
+    "largest": "White",
+    "non_null": 3573,
+    "null": 10,
+    "top": [
+      {
+        "item": "White",
+        "count": 20
+      },
+      {
+        "item": "Black",
+        "count": 19
+      },
+      {
+        "item": "Hispanic, White",
+        "count": 18
+      },
+      {
+        "item": "Other",
+        "count": 17
+      },
+      {
+        "item": "Asian, Other",
+        "count": 16
+      },
+      {
+        "item": "Unknown",
+        "count": 15
+      },
+      {
+        "item": "Hispanic, Black",
+        "count": 14
+      },
+      {
+        "item": "Native American, Other",
+        "count": 13
+      },
+      {
+        "item": "Chinese",
+        "count": 12
+      },
+      {
+        "item": "Asian Indian",
+        "count": 11
+      },
+      {
+        "item": "Hawaiian",
+        "count": 10
+      }
+    ],
+    "smallest": "Asian, Other"
+  },
+  "format": {}
+}

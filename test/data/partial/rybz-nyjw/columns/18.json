@@ -1,0 +1,29 @@
+{
+  "id": 328735912,
+  "name": "Cocaine",
+  "dataTypeName": "text",
+  "fieldName": "coc",
+  "position": 17,
+  "renderTypeName": "text",
+  "tableColumnId": 31936588,
+  "width": 136,
+  "cachedContents": {
+    "largest": "Y",
+    "non_null": 998,
+    "null": 2585,
+    "top": [
+      {
+        "item": "Y",
+        "count": 20
+      },
+      {
+        "item": "y",
+        "count": 19
+      }
+    ],
+    "smallest": "y"
+  },
+  "format": {
+    "align": "left"
+  }
+}

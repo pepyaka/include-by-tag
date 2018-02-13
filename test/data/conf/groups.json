@@ -1,8 +1,0 @@
-[{
-    "description": "This group contains various real datasets that show CKAN's data previewer in action. The previewer shows a configurable grid view of tabular data, plots columns of data on a graph, and shows geo-coded data on an interactive map. It can also preview image files and web pages.", 
-    "display_name": "Data Explorer Examples", 
-    "id": "93327dc5-7615-4e11-bf17-974d30692ca5", 
-    "image_display_url": "http://farm8.staticflickr.com/7129/7041988029_411d985015_c.jpg", 
-    "name": "data-explorer", 
-    "title": "Data Explorer Examples"
-}]

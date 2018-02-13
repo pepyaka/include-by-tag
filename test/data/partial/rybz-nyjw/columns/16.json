@@ -1,0 +1,99 @@
+{
+  "id": 328735910,
+  "name": "ImmediateCauseA",
+  "dataTypeName": "text",
+  "fieldName": "immediatecausea",
+  "position": 15,
+  "renderTypeName": "text",
+  "tableColumnId": 31936586,
+  "width": 280,
+  "cachedContents": {
+    "largest": "Used Oxycodone",
+    "non_null": 3581,
+    "null": 2,
+    "top": [
+      {
+        "item": "Heroin Toxicity",
+        "count": 20
+      },
+      {
+        "item": "Acute Heroin Toxicity",
+        "count": 19
+      },
+      {
+        "item": "Multiple Drug Toxicity",
+        "count": 18
+      },
+      {
+        "item": "Heroin Intoxication",
+        "count": 17
+      },
+      {
+        "item": "Acute Heroin Intoxication",
+        "count": 16
+      },
+      {
+        "item": "Acute Fentanyl Intoxication",
+        "count": 15
+      },
+      {
+        "item": "Acute Cocaine Intoxication",
+        "count": 14
+      },
+      {
+        "item": "Substance Abuse",
+        "count": 13
+      },
+      {
+        "item": "Drug Use",
+        "count": 12
+      },
+      {
+        "item": "Substance abuse",
+        "count": 11
+      },
+      {
+        "item": "SUBSTANCE ABUSE",
+        "count": 10
+      },
+      {
+        "item": "Prescription Medicine Abuse",
+        "count": 9
+      },
+      {
+        "item": "Ingestion",
+        "count": 8
+      },
+      {
+        "item": "USED MULTIPLE MEDICATIONS",
+        "count": 7
+      },
+      {
+        "item": "Took Medications",
+        "count": 6
+      },
+      {
+        "item": "Ingested Medications",
+        "count": 5
+      },
+      {
+        "item": "Took another person's methadone",
+        "count": 4
+      },
+      {
+        "item": "Took Medications With Alcohol",
+        "count": 3
+      },
+      {
+        "item": "Medication abuse",
+        "count": 2
+      },
+      {
+        "item": "Abuse of Medication",
+        "count": 1
+      }
+    ],
+    "smallest": "1,1-Difluoroethane Toxicity"
+  },
+  "format": {}
+}

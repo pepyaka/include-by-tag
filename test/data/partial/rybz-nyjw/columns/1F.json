@@ -1,0 +1,27 @@
+{
+  "id": 328735919,
+  "name": "Methadone",
+  "dataTypeName": "text",
+  "fieldName": "methadone",
+  "position": 24,
+  "renderTypeName": "text",
+  "tableColumnId": 31936595,
+  "width": 208,
+  "cachedContents": {
+    "largest": "Y",
+    "non_null": 336,
+    "null": 3247,
+    "top": [
+      {
+        "item": "Y",
+        "count": 20
+      },
+      {
+        "item": "y",
+        "count": 19
+      }
+    ],
+    "smallest": "y"
+  },
+  "format": {}
+}

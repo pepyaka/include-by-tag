@@ -1,0 +1,83 @@
+{
+  "id": 328735896,
+  "name": "CaseNumber",
+  "dataTypeName": "text",
+  "fieldName": "casenumber",
+  "position": 1,
+  "renderTypeName": "text",
+  "tableColumnId": 31936573,
+  "width": 220,
+  "cachedContents": {
+    "largest": "17-99",
+    "non_null": 3583,
+    "null": 0,
+    "top": [
+      {
+        "item": "17-523",
+        "count": 20
+      },
+      {
+        "item": "17-524",
+        "count": 19
+      },
+      {
+        "item": "17-525",
+        "count": 18
+      },
+      {
+        "item": "17-526",
+        "count": 17
+      },
+      {
+        "item": "17-527",
+        "count": 16
+      },
+      {
+        "item": "17-528",
+        "count": 15
+      },
+      {
+        "item": "17-529",
+        "count": 14
+      },
+      {
+        "item": "17-530",
+        "count": 13
+      },
+      {
+        "item": "17-531",
+        "count": 12
+      },
+      {
+        "item": "17-532",
+        "count": 11
+      },
+      {
+        "item": "17-533",
+        "count": 10
+      },
+      {
+        "item": "17-534",
+        "count": 9
+      },
+      {
+        "item": "17-535",
+        "count": 8
+      },
+      {
+        "item": "17-536",
+        "count": 7
+      },
+      {
+        "item": "17-537",
+        "count": 6
+      },
+      {
+        "item": "17-538",
+        "count": 5
+      }
+    ],
+    "smallest": "12-10000"
+  },
+  "format": {}
+}

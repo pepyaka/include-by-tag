@@ -1,0 +1,29 @@
+{
+  "id": 328735914,
+  "name": "Oxycodone",
+  "dataTypeName": "text",
+  "fieldName": "oxyc",
+  "position": 19,
+  "renderTypeName": "text",
+  "tableColumnId": 31936590,
+  "width": 148,
+  "cachedContents": {
+    "largest": "Y",
+    "non_null": 491,
+    "null": 3092,
+    "top": [
+      {
+        "item": "Y",
+        "count": 20
+      },
+      {
+        "item": "y",
+        "count": 19
+      }
+    ],
+    "smallest": "y"
+  },
+  "format": {
+    "align": "left"
+  }
+}

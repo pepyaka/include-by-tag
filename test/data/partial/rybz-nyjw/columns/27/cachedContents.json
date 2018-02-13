@@ -1,0 +1,15 @@
+{
+  "largest": {
+    "latitude": "41.352933",
+    "human_address": "{\"address\":\"\",\"city\":\"Woodbridge\",\"state\":\"CT\",\"zip\":\"\"}",
+    "longitude": "-73.014356"
+  },
+  "non_null": 3583,
+  "null": 0,
+  "top": "!include cachedContents/top/*.json",
+  "smallest": {
+    "latitude": "41.544654",
+    "human_address": "{\"address\":\"\",\"city\":\"\",\"state\":\"CT\",\"zip\":\"\"}",
+    "longitude": "-72.651713"
+  }
+}

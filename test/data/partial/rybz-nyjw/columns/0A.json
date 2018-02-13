@@ -1,0 +1,27 @@
+{
+  "id": 328735898,
+  "name": "Sex",
+  "dataTypeName": "text",
+  "fieldName": "sex",
+  "position": 3,
+  "renderTypeName": "text",
+  "tableColumnId": 31936574,
+  "width": 136,
+  "cachedContents": {
+    "largest": "Male",
+    "non_null": 3580,
+    "null": 3,
+    "top": [
+      {
+        "item": "Male",
+        "count": 20
+      },
+      {
+        "item": "Female",
+        "count": 19
+      }
+    ],
+    "smallest": "Female"
+  },
+  "format": {}
+}

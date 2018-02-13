@@ -1,0 +1,99 @@
+{
+  "id": 328735923,
+  "name": "Other",
+  "dataTypeName": "text",
+  "fieldName": "other",
+  "position": 28,
+  "renderTypeName": "text",
+  "tableColumnId": 31936599,
+  "width": 160,
+  "cachedContents": {
+    "largest": "ZOLPIDEM",
+    "non_null": 321,
+    "null": 3262,
+    "top": [
+      {
+        "item": "MORPHINE RX",
+        "count": 20
+      },
+      {
+        "item": "BUPREN",
+        "count": 19
+      },
+      {
+        "item": "MORPHINE",
+        "count": 18
+      },
+      {
+        "item": "MORPH",
+        "count": 17
+      },
+      {
+        "item": "OPIATE SCREEN",
+        "count": 16
+      },
+      {
+        "item": "OPIATES",
+        "count": 15
+      },
+      {
+        "item": "HYDROMORPH",
+        "count": 14
+      },
+      {
+        "item": "PCP",
+        "count": 13
+      },
+      {
+        "item": "OPIATE",
+        "count": 12
+      },
+      {
+        "item": "OTHERS",
+        "count": 11
+      },
+      {
+        "item": "DUSTER",
+        "count": 10
+      },
+      {
+        "item": "TAPENTADOL",
+        "count": 9
+      },
+      {
+        "item": "HYDR-MOR",
+        "count": 8
+      },
+      {
+        "item": "KETAMINE",
+        "count": 7
+      },
+      {
+        "item": "HYDROMORP",
+        "count": 6
+      },
+      {
+        "item": "BUPRENORPHONE",
+        "count": 5
+      },
+      {
+        "item": "morphine",
+        "count": 4
+      },
+      {
+        "item": "hydromorphone",
+        "count": 3
+      },
+      {
+        "item": "HYDROMORPHONE",
+        "count": 2
+      },
+      {
+        "item": "BUPRENORPHONE, DIFLUORO",
+        "count": 1
+      }
+    ],
+    "smallest": " "
+  },
+  "format": {}
+}

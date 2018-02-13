@@ -1,0 +1,2239 @@
+{
+  "attribution": "Office of the Chief Medical Examiner",
+  "attributionLink": "http://www.ct.gov/ocme",
+  "averageRating": 0,
+  "category": "Health and Human Services",
+  "columns": [
+    {
+      "dataTypeName": "meta_data",
+      "fieldName": ":sid",
+      "flags": [
+        "hidden"
+      ],
+      "format": {},
+      "id": -1,
+      "name": "sid",
+      "position": 0,
+      "renderTypeName": "meta_data"
+    },
+    {
+      "dataTypeName": "meta_data",
+      "fieldName": ":id",
+      "flags": [
+        "hidden"
+      ],
+      "format": {},
+      "id": -1,
+      "name": "id",
+      "position": 0,
+      "renderTypeName": "meta_data"
+    },
+    {
+      "dataTypeName": "meta_data",
+      "fieldName": ":position",
+      "flags": [
+        "hidden"
+      ],
+      "format": {},
+      "id": -1,
+      "name": "position",
+      "position": 0,
+      "renderTypeName": "meta_data"
+    },
+    {
+      "dataTypeName": "meta_data",
+      "fieldName": ":created_at",
+      "flags": [
+        "hidden"
+      ],
+      "format": {},
+      "id": -1,
+      "name": "created_at",
+      "position": 0,
+      "renderTypeName": "meta_data"
+    },
+    {
+      "dataTypeName": "meta_data",
+      "fieldName": ":created_meta",
+      "flags": [
+        "hidden"
+      ],
+      "format": {},
+      "id": -1,
+      "name": "created_meta",
+      "position": 0,
+      "renderTypeName": "meta_data"
+    },
+    {
+      "dataTypeName": "meta_data",
+      "fieldName": ":updated_at",
+      "flags": [
+        "hidden"
+      ],
+      "format": {},
+      "id": -1,
+      "name": "updated_at",
+      "position": 0,
+      "renderTypeName": "meta_data"
+    },
+    {
+      "dataTypeName": "meta_data",
+      "fieldName": ":updated_meta",
+      "flags": [
+        "hidden"
+      ],
+      "format": {},
+      "id": -1,
+      "name": "updated_meta",
+      "position": 0,
+      "renderTypeName": "meta_data"
+    },
+    {
+      "dataTypeName": "meta_data",
+      "fieldName": ":meta",
+      "flags": [
+        "hidden"
+      ],
+      "format": {},
+      "id": -1,
+      "name": "meta",
+      "position": 0,
+      "renderTypeName": "meta_data"
+    },
+    {
+      "cachedContents": {
+        "largest": "17-99",
+        "non_null": 3583,
+        "null": 0,
+        "smallest": "12-10000",
+        "top": [
+          {
+            "count": 20,
+            "item": "17-523"
+          },
+          {
+            "count": 19,
+            "item": "17-524"
+          },
+          {
+            "count": 18,
+            "item": "17-525"
+          },
+          {
+            "count": 17,
+            "item": "17-526"
+          },
+          {
+            "count": 16,
+            "item": "17-527"
+          },
+          {
+            "count": 15,
+            "item": "17-528"
+          },
+          {
+            "count": 14,
+            "item": "17-529"
+          },
+          {
+            "count": 13,
+            "item": "17-530"
+          },
+          {
+            "count": 12,
+            "item": "17-531"
+          },
+          {
+            "count": 11,
+            "item": "17-532"
+          },
+          {
+            "count": 10,
+            "item": "17-533"
+          },
+          {
+            "count": 9,
+            "item": "17-534"
+          },
+          {
+            "count": 8,
+            "item": "17-535"
+          },
+          {
+            "count": 7,
+            "item": "17-536"
+          },
+          {
+            "count": 6,
+            "item": "17-537"
+          },
+          {
+            "count": 5,
+            "item": "17-538"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "casenumber",
+      "format": {},
+      "id": 328735896,
+      "name": "CaseNumber",
+      "position": 1,
+      "renderTypeName": "text",
+      "tableColumnId": 31936573,
+      "width": 220
+    },
+    {
+      "cachedContents": {
+        "largest": "2017-06-30T00:00:00",
+        "non_null": 3581,
+        "null": 2,
+        "smallest": "2012-01-01T00:00:00",
+        "top": [
+          {
+            "count": 20,
+            "item": "2017-04-27T00:00:00"
+          },
+          {
+            "count": 19,
+            "item": "2017-05-05T00:00:00"
+          },
+          {
+            "count": 18,
+            "item": "2017-05-09T00:00:00"
+          },
+          {
+            "count": 17,
+            "item": "2017-05-11T00:00:00"
+          },
+          {
+            "count": 16,
+            "item": "2017-05-20T00:00:00"
+          },
+          {
+            "count": 15,
+            "item": "2017-05-22T00:00:00"
+          },
+          {
+            "count": 14,
+            "item": "2017-05-23T00:00:00"
+          },
+          {
+            "count": 13,
+            "item": "2017-05-24T00:00:00"
+          },
+          {
+            "count": 12,
+            "item": "2017-05-26T00:00:00"
+          },
+          {
+            "count": 11,
+            "item": "2017-05-27T00:00:00"
+          },
+          {
+            "count": 10,
+            "item": "2017-05-29T00:00:00"
+          },
+          {
+            "count": 9,
+            "item": "2017-06-01T00:00:00"
+          },
+          {
+            "count": 8,
+            "item": "2017-06-02T00:00:00"
+          },
+          {
+            "count": 7,
+            "item": "2017-06-04T00:00:00"
+          },
+          {
+            "count": 6,
+            "item": "2017-06-05T00:00:00"
+          },
+          {
+            "count": 5,
+            "item": "2017-06-06T00:00:00"
+          },
+          {
+            "count": 4,
+            "item": "2017-06-07T00:00:00"
+          },
+          {
+            "count": 3,
+            "item": "2017-06-08T00:00:00"
+          },
+          {
+            "count": 2,
+            "item": "2017-06-09T00:00:00"
+          },
+          {
+            "count": 1,
+            "item": "2017-06-10T00:00:00"
+          }
+        ]
+      },
+      "dataTypeName": "calendar_date",
+      "fieldName": "date",
+      "format": {
+        "align": "left",
+        "view": "date"
+      },
+      "id": 328735897,
+      "name": "Date",
+      "position": 2,
+      "renderTypeName": "calendar_date",
+      "tableColumnId": 31952055,
+      "width": 100
+    },
+    {
+      "cachedContents": {
+        "largest": "Male",
+        "non_null": 3580,
+        "null": 3,
+        "smallest": "Female",
+        "top": [
+          {
+            "count": 20,
+            "item": "Male"
+          },
+          {
+            "count": 19,
+            "item": "Female"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "sex",
+      "format": {},
+      "id": 328735898,
+      "name": "Sex",
+      "position": 3,
+      "renderTypeName": "text",
+      "tableColumnId": 31936574,
+      "width": 136
+    },
+    {
+      "cachedContents": {
+        "largest": "White",
+        "non_null": 3573,
+        "null": 10,
+        "smallest": "Asian, Other",
+        "top": [
+          {
+            "count": 20,
+            "item": "White"
+          },
+          {
+            "count": 19,
+            "item": "Black"
+          },
+          {
+            "count": 18,
+            "item": "Hispanic, White"
+          },
+          {
+            "count": 17,
+            "item": "Other"
+          },
+          {
+            "count": 16,
+            "item": "Asian, Other"
+          },
+          {
+            "count": 15,
+            "item": "Unknown"
+          },
+          {
+            "count": 14,
+            "item": "Hispanic, Black"
+          },
+          {
+            "count": 13,
+            "item": "Native American, Other"
+          },
+          {
+            "count": 12,
+            "item": "Chinese"
+          },
+          {
+            "count": 11,
+            "item": "Asian Indian"
+          },
+          {
+            "count": 10,
+            "item": "Hawaiian"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "race",
+      "format": {},
+      "id": 328735899,
+      "name": "Race",
+      "position": 4,
+      "renderTypeName": "text",
+      "tableColumnId": 31936575,
+      "width": 148
+    },
+    {
+      "cachedContents": {
+        "average": "41.99972074839430",
+        "largest": "87",
+        "non_null": 3581,
+        "null": 2,
+        "smallest": "14",
+        "sum": "150401",
+        "top": [
+          {
+            "count": 20,
+            "item": "45"
+          },
+          {
+            "count": 19,
+            "item": "44"
+          },
+          {
+            "count": 18,
+            "item": "30"
+          },
+          {
+            "count": 17,
+            "item": "50"
+          },
+          {
+            "count": 16,
+            "item": "26"
+          },
+          {
+            "count": 15,
+            "item": "58"
+          },
+          {
+            "count": 14,
+            "item": "51"
+          },
+          {
+            "count": 13,
+            "item": "29"
+          },
+          {
+            "count": 12,
+            "item": "35"
+          },
+          {
+            "count": 11,
+            "item": "53"
+          },
+          {
+            "count": 10,
+            "item": "54"
+          },
+          {
+            "count": 9,
+            "item": "47"
+          },
+          {
+            "count": 8,
+            "item": "49"
+          },
+          {
+            "count": 7,
+            "item": "52"
+          },
+          {
+            "count": 6,
+            "item": "39"
+          },
+          {
+            "count": 5,
+            "item": "55"
+          },
+          {
+            "count": 4,
+            "item": "43"
+          },
+          {
+            "count": 3,
+            "item": "46"
+          },
+          {
+            "count": 2,
+            "item": "28"
+          },
+          {
+            "count": 1,
+            "item": "48"
+          }
+        ]
+      },
+      "dataTypeName": "number",
+      "fieldName": "age",
+      "format": {},
+      "id": 328735900,
+      "name": "Age",
+      "position": 5,
+      "renderTypeName": "number",
+      "tableColumnId": 31936576,
+      "width": 136
+    },
+    {
+      "cachedContents": {
+        "largest": "ZIONSVILLE",
+        "non_null": 3490,
+        "null": 93,
+        "smallest": "ALFRED STATION",
+        "top": [
+          {
+            "count": 20,
+            "item": "NEW HAVEN"
+          },
+          {
+            "count": 19,
+            "item": "WATERBURY"
+          },
+          {
+            "count": 18,
+            "item": "NEW BRITAIN"
+          },
+          {
+            "count": 17,
+            "item": "BRIDGEPORT"
+          },
+          {
+            "count": 16,
+            "item": "HARTFORD"
+          },
+          {
+            "count": 15,
+            "item": "BRISTOL"
+          },
+          {
+            "count": 14,
+            "item": "MERIDEN"
+          },
+          {
+            "count": 13,
+            "item": "NORWICH"
+          },
+          {
+            "count": 12,
+            "item": "WEST HAVEN"
+          },
+          {
+            "count": 11,
+            "item": "EAST HARTFORD"
+          },
+          {
+            "count": 10,
+            "item": "TORRINGTON"
+          },
+          {
+            "count": 9,
+            "item": "UNKNOWN"
+          },
+          {
+            "count": 8,
+            "item": "DANBURY"
+          },
+          {
+            "count": 7,
+            "item": "STAMFORD"
+          },
+          {
+            "count": 6,
+            "item": "MANCHESTER"
+          },
+          {
+            "count": 5,
+            "item": "STRATFORD"
+          },
+          {
+            "count": 4,
+            "item": "CHESHIRE"
+          },
+          {
+            "count": 3,
+            "item": "NEWINGTON"
+          },
+          {
+            "count": 2,
+            "item": "WILLIMANTIC"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "residence_city",
+      "format": {},
+      "id": 328735901,
+      "name": "Residence City",
+      "position": 6,
+      "renderTypeName": "text",
+      "tableColumnId": 31936577,
+      "width": 268
+    },
+    {
+      "cachedContents": {
+        "largest": "UNKNOWN",
+        "non_null": 1663,
+        "null": 1920,
+        "smallest": "CA",
+        "top": [
+          {
+            "count": 20,
+            "item": "CT"
+          },
+          {
+            "count": 19,
+            "item": "NY"
+          },
+          {
+            "count": 18,
+            "item": "GA"
+          },
+          {
+            "count": 17,
+            "item": "IL"
+          },
+          {
+            "count": 16,
+            "item": "MA"
+          },
+          {
+            "count": 15,
+            "item": "FL"
+          },
+          {
+            "count": 14,
+            "item": "CA"
+          },
+          {
+            "count": 13,
+            "item": "MN"
+          },
+          {
+            "count": 12,
+            "item": "NJ"
+          },
+          {
+            "count": 11,
+            "item": "LA"
+          },
+          {
+            "count": 10,
+            "item": "OH"
+          },
+          {
+            "count": 9,
+            "item": "TX"
+          },
+          {
+            "count": 8,
+            "item": "UNKNOWN"
+          },
+          {
+            "count": 7,
+            "item": "SD"
+          },
+          {
+            "count": 6,
+            "item": "SC"
+          },
+          {
+            "count": 5,
+            "item": "CO"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "residence_state",
+      "format": {},
+      "id": 328735902,
+      "name": "Residence State",
+      "position": 7,
+      "renderTypeName": "text",
+      "tableColumnId": 31936578,
+      "width": 280
+    },
+    {
+      "cachedContents": {
+        "largest": "YANKTON",
+        "non_null": 2885,
+        "null": 698,
+        "smallest": "AROOSTOOK",
+        "top": [
+          {
+            "count": 20,
+            "item": "WINDHAM"
+          },
+          {
+            "count": 19,
+            "item": "LITCHFIELD"
+          },
+          {
+            "count": 18,
+            "item": "HARTFORD"
+          },
+          {
+            "count": 17,
+            "item": "NEW HAVEN"
+          },
+          {
+            "count": 16,
+            "item": "MIDDLESEX"
+          },
+          {
+            "count": 15,
+            "item": "FAIRFIELD"
+          },
+          {
+            "count": 14,
+            "item": "TOLLAND"
+          },
+          {
+            "count": 13,
+            "item": "DUTCHESS"
+          },
+          {
+            "count": 12,
+            "item": "NEW LONDON"
+          },
+          {
+            "count": 11,
+            "item": "PUTNAM"
+          },
+          {
+            "count": 10,
+            "item": "ORANGE"
+          },
+          {
+            "count": 9,
+            "item": "WESTCHESTER"
+          },
+          {
+            "count": 8,
+            "item": "HAMPDEN"
+          },
+          {
+            "count": 7,
+            "item": "NEW YORK"
+          },
+          {
+            "count": 6,
+            "item": "ESSEX"
+          },
+          {
+            "count": 5,
+            "item": "WORCESTER"
+          },
+          {
+            "count": 4,
+            "item": "KINGS"
+          },
+          {
+            "count": 3,
+            "item": "GLOUCESTER"
+          },
+          {
+            "count": 2,
+            "item": "AROOSTOOK"
+          },
+          {
+            "count": 1,
+            "item": "NEWPORT"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "residence_county",
+      "format": {},
+      "id": 328735903,
+      "name": "Residence County",
+      "position": 8,
+      "renderTypeName": "text",
+      "tableColumnId": 31936579,
+      "width": 292
+    },
+    {
+      "cachedContents": {
+        "largest": "WOODSTOCK",
+        "non_null": 3579,
+        "null": 4,
+        "smallest": "06340",
+        "top": [
+          {
+            "count": 20,
+            "item": "NEW HAVEN"
+          },
+          {
+            "count": 19,
+            "item": "MERIDEN"
+          },
+          {
+            "count": 18,
+            "item": "HARTFORD"
+          },
+          {
+            "count": 17,
+            "item": "WATERBURY"
+          },
+          {
+            "count": 16,
+            "item": "NEW LONDON"
+          },
+          {
+            "count": 15,
+            "item": "NEW BRITAIN"
+          },
+          {
+            "count": 14,
+            "item": "MANCHESTER"
+          },
+          {
+            "count": 13,
+            "item": "BRIDGEPORT"
+          },
+          {
+            "count": 12,
+            "item": "MIDDLETOWN"
+          },
+          {
+            "count": 11,
+            "item": "DANBURY"
+          },
+          {
+            "count": 10,
+            "item": "NORWICH"
+          },
+          {
+            "count": 9,
+            "item": "BRISTOL"
+          },
+          {
+            "count": 8,
+            "item": "TORRINGTON"
+          },
+          {
+            "count": 7,
+            "item": "ENFIELD"
+          },
+          {
+            "count": 6,
+            "item": "MILFORD"
+          },
+          {
+            "count": 5,
+            "item": "WEST HAVEN"
+          },
+          {
+            "count": 4,
+            "item": "EAST HARTFORD"
+          },
+          {
+            "count": 3,
+            "item": "NAUGATUCK"
+          },
+          {
+            "count": 2,
+            "item": "WILLIMANTIC"
+          },
+          {
+            "count": 1,
+            "item": "STRATFORD"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "death_city",
+      "format": {},
+      "id": 328735904,
+      "name": "Death City",
+      "position": 9,
+      "renderTypeName": "text",
+      "tableColumnId": 31936580,
+      "width": 220
+    },
+    {
+      "cachedContents": {
+        "largest": "CTUCTnCTkCTnCToCTwCTnCT",
+        "non_null": 1702,
+        "null": 1881,
+        "smallest": "CT",
+        "top": [
+          {
+            "count": 20,
+            "item": "CT"
+          },
+          {
+            "count": 19,
+            "item": "CTCCTTCT"
+          },
+          {
+            "count": 18,
+            "item": "CTNCTYCT"
+          },
+          {
+            "count": 17,
+            "item": "CTUCTnCTkCTnCToCTwCTnCT"
+          },
+          {
+            "count": 16,
+            "item": "CTMCTACT"
+          },
+          {
+            "count": 15,
+            "item": "CTFCTLCT"
+          },
+          {
+            "count": 14,
+            "item": "CTSCTDCT"
+          },
+          {
+            "count": 13,
+            "item": "CTSCTCCT"
+          },
+          {
+            "count": 12,
+            "item": "CTNCTJCT"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "death_state",
+      "format": {},
+      "id": 328735905,
+      "name": "Death State",
+      "position": 10,
+      "renderTypeName": "text",
+      "tableColumnId": 31936581,
+      "width": 232
+    },
+    {
+      "cachedContents": {
+        "largest": "WINDHAM",
+        "non_null": 2405,
+        "null": 1178,
+        "smallest": "FAIRFIELD",
+        "top": [
+          {
+            "count": 20,
+            "item": "WINDHAM"
+          },
+          {
+            "count": 19,
+            "item": "LITCHFIELD"
+          },
+          {
+            "count": 18,
+            "item": "HARTFORD"
+          },
+          {
+            "count": 17,
+            "item": "NEW HAVEN"
+          },
+          {
+            "count": 16,
+            "item": "MIDDLESEX"
+          },
+          {
+            "count": 15,
+            "item": "FAIRFIELD"
+          },
+          {
+            "count": 14,
+            "item": "NEW LONDON"
+          },
+          {
+            "count": 13,
+            "item": "TOLLAND"
+          },
+          {
+            "count": 12,
+            "item": "USA"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "death_county",
+      "format": {},
+      "id": 328735906,
+      "name": "Death County",
+      "position": 11,
+      "renderTypeName": "text",
+      "tableColumnId": 31936582,
+      "width": 244
+    },
+    {
+      "cachedContents": {
+        "largest": "Residence",
+        "non_null": 3561,
+        "null": 22,
+        "smallest": "Convalescent Home",
+        "top": [
+          {
+            "count": 20,
+            "item": "Other"
+          },
+          {
+            "count": 19,
+            "item": "Residence"
+          },
+          {
+            "count": 18,
+            "item": "Hospital"
+          },
+          {
+            "count": 17,
+            "item": "Convalescent Home"
+          },
+          {
+            "count": 16,
+            "item": "Hospice"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "location",
+      "format": {},
+      "id": 328735907,
+      "name": "Location",
+      "position": 12,
+      "renderTypeName": "text",
+      "tableColumnId": 31936583,
+      "width": 196
+    },
+    {
+      "cachedContents": {
+        "largest": "Used Oxycodone",
+        "non_null": 998,
+        "null": 2585,
+        "smallest": "Abuse",
+        "top": [
+          {
+            "count": 20,
+            "item": "Substance Abuse"
+          },
+          {
+            "count": 19,
+            "item": "substance abuse"
+          },
+          {
+            "count": 18,
+            "item": "Drug Use"
+          },
+          {
+            "count": 17,
+            "item": "substance abuse (injection)"
+          },
+          {
+            "count": 16,
+            "item": "Ingestion"
+          },
+          {
+            "count": 15,
+            "item": "drug use"
+          },
+          {
+            "count": 14,
+            "item": "SUBSTANCE ABUSE"
+          },
+          {
+            "count": 13,
+            "item": "Substance abuse"
+          },
+          {
+            "count": 12,
+            "item": "Drug use"
+          },
+          {
+            "count": 11,
+            "item": "Took Medications"
+          },
+          {
+            "count": 10,
+            "item": "Prescription Medicine Abuse"
+          },
+          {
+            "count": 9,
+            "item": "USED MULTIPLE MEDICATIONS"
+          },
+          {
+            "count": 8,
+            "item": "Took another person's methadone"
+          },
+          {
+            "count": 7,
+            "item": "Abused prescription medications"
+          },
+          {
+            "count": 6,
+            "item": "Combined Alcohol and Medication"
+          },
+          {
+            "count": 5,
+            "item": "Took opiate"
+          },
+          {
+            "count": 4,
+            "item": "Medication and alcohol abuse"
+          },
+          {
+            "count": 3,
+            "item": "Injected Prescription Medications and Crushed Pills"
+          },
+          {
+            "count": 2,
+            "item": "Used cocaine"
+          },
+          {
+            "count": 1,
+            "item": "Drug Abuse"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "descriptionofinjury",
+      "format": {},
+      "id": 328735908,
+      "name": "DescriptionofInjury",
+      "position": 13,
+      "renderTypeName": "text",
+      "tableColumnId": 31936584,
+      "width": 328
+    },
+    {
+      "cachedContents": {
+        "largest": "Yard",
+        "non_null": 3506,
+        "null": 77,
+        "smallest": "Alleyway",
+        "top": [
+          {
+            "count": 20,
+            "item": "Other"
+          },
+          {
+            "count": 19,
+            "item": "Residence"
+          },
+          {
+            "count": 18,
+            "item": "Hospital"
+          },
+          {
+            "count": 17,
+            "item": "Other (unknown)"
+          },
+          {
+            "count": 16,
+            "item": "Hotel or Motel"
+          },
+          {
+            "count": 15,
+            "item": "Unknown"
+          },
+          {
+            "count": 14,
+            "item": "Residential Building"
+          },
+          {
+            "count": 13,
+            "item": "In Vehicle"
+          },
+          {
+            "count": 12,
+            "item": "Parking Lot"
+          },
+          {
+            "count": 11,
+            "item": "Street"
+          },
+          {
+            "count": 10,
+            "item": "Automobile"
+          },
+          {
+            "count": 9,
+            "item": "Other indoor Area"
+          },
+          {
+            "count": 8,
+            "item": "Restaurant"
+          },
+          {
+            "count": 7,
+            "item": "Other, Other Outdoor Area"
+          },
+          {
+            "count": 6,
+            "item": "Hospital or Emergency Room"
+          },
+          {
+            "count": 5,
+            "item": "Other, Park or Recreational Area"
+          },
+          {
+            "count": 4,
+            "item": "Porch"
+          },
+          {
+            "count": 3,
+            "item": "Driveway"
+          },
+          {
+            "count": 2,
+            "item": "Apartment"
+          },
+          {
+            "count": 1,
+            "item": "Halfway House"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "injuryplace",
+      "format": {},
+      "id": 328735909,
+      "name": "InjuryPlace",
+      "position": 14,
+      "renderTypeName": "text",
+      "tableColumnId": 31936585,
+      "width": 232
+    },
+    {
+      "cachedContents": {
+        "largest": "Used Oxycodone",
+        "non_null": 3581,
+        "null": 2,
+        "smallest": "1,1-Difluoroethane Toxicity",
+        "top": [
+          {
+            "count": 20,
+            "item": "Heroin Toxicity"
+          },
+          {
+            "count": 19,
+            "item": "Acute Heroin Toxicity"
+          },
+          {
+            "count": 18,
+            "item": "Multiple Drug Toxicity"
+          },
+          {
+            "count": 17,
+            "item": "Heroin Intoxication"
+          },
+          {
+            "count": 16,
+            "item": "Acute Heroin Intoxication"
+          },
+          {
+            "count": 15,
+            "item": "Acute Fentanyl Intoxication"
+          },
+          {
+            "count": 14,
+            "item": "Acute Cocaine Intoxication"
+          },
+          {
+            "count": 13,
+            "item": "Substance Abuse"
+          },
+          {
+            "count": 12,
+            "item": "Drug Use"
+          },
+          {
+            "count": 11,
+            "item": "Substance abuse"
+          },
+          {
+            "count": 10,
+            "item": "SUBSTANCE ABUSE"
+          },
+          {
+            "count": 9,
+            "item": "Prescription Medicine Abuse"
+          },
+          {
+            "count": 8,
+            "item": "Ingestion"
+          },
+          {
+            "count": 7,
+            "item": "USED MULTIPLE MEDICATIONS"
+          },
+          {
+            "count": 6,
+            "item": "Took Medications"
+          },
+          {
+            "count": 5,
+            "item": "Ingested Medications"
+          },
+          {
+            "count": 4,
+            "item": "Took another person's methadone"
+          },
+          {
+            "count": 3,
+            "item": "Took Medications With Alcohol"
+          },
+          {
+            "count": 2,
+            "item": "Medication abuse"
+          },
+          {
+            "count": 1,
+            "item": "Abuse of Medication"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "immediatecausea",
+      "format": {},
+      "id": 328735910,
+      "name": "ImmediateCauseA",
+      "position": 15,
+      "renderTypeName": "text",
+      "tableColumnId": 31936586,
+      "width": 280
+    },
+    {
+      "cachedContents": {
+        "largest": "Y",
+        "non_null": 1936,
+        "null": 1647,
+        "smallest": " ",
+        "top": [
+          {
+            "count": 20,
+            "item": "Y"
+          },
+          {
+            "count": 19,
+            "item": "y"
+          },
+          {
+            "count": 18,
+            "item": " "
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "heroin",
+      "format": {},
+      "id": 328735911,
+      "name": "Heroin",
+      "position": 16,
+      "renderTypeName": "text",
+      "tableColumnId": 31936587,
+      "width": 172
+    },
+    {
+      "cachedContents": {
+        "largest": "Y",
+        "non_null": 998,
+        "null": 2585,
+        "smallest": "y",
+        "top": [
+          {
+            "count": 20,
+            "item": "Y"
+          },
+          {
+            "count": 19,
+            "item": "y"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "coc",
+      "format": {
+        "align": "left"
+      },
+      "id": 328735912,
+      "name": "Cocaine",
+      "position": 17,
+      "renderTypeName": "text",
+      "tableColumnId": 31936588,
+      "width": 136
+    },
+    {
+      "cachedContents": {
+        "largest": "Y POPS",
+        "non_null": 1114,
+        "null": 2469,
+        "smallest": "y",
+        "top": [
+          {
+            "count": 20,
+            "item": "Y"
+          },
+          {
+            "count": 19,
+            "item": "Y (PTCH)"
+          },
+          {
+            "count": 18,
+            "item": "Y POPS"
+          },
+          {
+            "count": 17,
+            "item": "Y-A"
+          },
+          {
+            "count": 16,
+            "item": "y"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "fentanyl",
+      "format": {},
+      "id": 328735913,
+      "name": "Fentanyl",
+      "position": 18,
+      "renderTypeName": "text",
+      "tableColumnId": 31936589,
+      "width": 196
+    },
+    {
+      "cachedContents": {
+        "largest": "Y",
+        "non_null": 491,
+        "null": 3092,
+        "smallest": "y",
+        "top": [
+          {
+            "count": 20,
+            "item": "Y"
+          },
+          {
+            "count": 19,
+            "item": "y"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "oxyc",
+      "format": {
+        "align": "left"
+      },
+      "id": 328735914,
+      "name": "Oxycodone",
+      "position": 19,
+      "renderTypeName": "text",
+      "tableColumnId": 31936590,
+      "width": 148
+    },
+    {
+      "cachedContents": {
+        "largest": "Y",
+        "non_null": 95,
+        "null": 3488,
+        "smallest": "Y",
+        "top": [
+          {
+            "count": 20,
+            "item": "Y"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "oxym",
+      "format": {
+        "align": "left"
+      },
+      "id": 328735915,
+      "name": "Oxymorphone",
+      "position": 20,
+      "renderTypeName": "text",
+      "tableColumnId": 31936591,
+      "width": 148
+    },
+    {
+      "cachedContents": {
+        "largest": "Y",
+        "non_null": 772,
+        "null": 2811,
+        "smallest": "y",
+        "top": [
+          {
+            "count": 20,
+            "item": "Y"
+          },
+          {
+            "count": 19,
+            "item": "y"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "etoh",
+      "format": {},
+      "id": 328735916,
+      "name": "EtOH",
+      "position": 21,
+      "renderTypeName": "text",
+      "tableColumnId": 31936592,
+      "width": 148
+    },
+    {
+      "cachedContents": {
+        "largest": "Y",
+        "non_null": 98,
+        "null": 3485,
+        "smallest": "y",
+        "top": [
+          {
+            "count": 20,
+            "item": "Y"
+          },
+          {
+            "count": 19,
+            "item": "y"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "hydr_cod",
+      "format": {
+        "align": "left",
+        "displayStyle": "plain"
+      },
+      "id": 328735917,
+      "name": "Hydrocodone",
+      "position": 22,
+      "renderTypeName": "text",
+      "tableColumnId": 31936593,
+      "width": 196
+    },
+    {
+      "cachedContents": {
+        "largest": "Y",
+        "non_null": 884,
+        "null": 2699,
+        "smallest": "y",
+        "top": [
+          {
+            "count": 20,
+            "item": "Y"
+          },
+          {
+            "count": 19,
+            "item": "y"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "benzo_s",
+      "format": {
+        "align": "left"
+      },
+      "id": 328735918,
+      "name": "Benzodiazepine",
+      "position": 23,
+      "renderTypeName": "text",
+      "tableColumnId": 31936594,
+      "width": 184
+    },
+    {
+      "cachedContents": {
+        "largest": "Y",
+        "non_null": 336,
+        "null": 3247,
+        "smallest": "y",
+        "top": [
+          {
+            "count": 20,
+            "item": "Y"
+          },
+          {
+            "count": 19,
+            "item": "y"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "methadone",
+      "format": {},
+      "id": 328735919,
+      "name": "Methadone",
+      "position": 24,
+      "renderTypeName": "text",
+      "tableColumnId": 31936595,
+      "width": 208
+    },
+    {
+      "cachedContents": {
+        "largest": "Y",
+        "non_null": 81,
+        "null": 3502,
+        "smallest": "Y",
+        "top": [
+          {
+            "count": 20,
+            "item": "Y"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "amphet",
+      "format": {},
+      "id": 328735920,
+      "name": "Amphet",
+      "position": 25,
+      "renderTypeName": "text",
+      "tableColumnId": 31936596,
+      "width": 172
+    },
+    {
+      "cachedContents": {
+        "largest": "Y",
+        "non_null": 79,
+        "null": 3504,
+        "smallest": "Y",
+        "top": [
+          {
+            "count": 20,
+            "item": "Y"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "tramad",
+      "format": {},
+      "id": 328735921,
+      "name": "Tramad",
+      "position": 26,
+      "renderTypeName": "text",
+      "tableColumnId": 31936597,
+      "width": 172
+    },
+    {
+      "cachedContents": {
+        "largest": " Y",
+        "non_null": 50,
+        "null": 3533,
+        "smallest": " ",
+        "top": [
+          {
+            "count": 20,
+            "item": "Y"
+          },
+          {
+            "count": 19,
+            "item": "NO RX BUT STRAWS"
+          },
+          {
+            "count": 18,
+            "item": "STOLE MEDS"
+          },
+          {
+            "count": 17,
+            "item": "y"
+          },
+          {
+            "count": 16,
+            "item": "PCP neg"
+          },
+          {
+            "count": 15,
+            "item": " "
+          },
+          {
+            "count": 14,
+            "item": " Y"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "morphine_not_heroin",
+      "format": {},
+      "id": 328735922,
+      "name": "Morphine (not heroin)",
+      "position": 27,
+      "renderTypeName": "text",
+      "tableColumnId": 31936598,
+      "width": 352
+    },
+    {
+      "cachedContents": {
+        "largest": "ZOLPIDEM",
+        "non_null": 321,
+        "null": 3262,
+        "smallest": " ",
+        "top": [
+          {
+            "count": 20,
+            "item": "MORPHINE RX"
+          },
+          {
+            "count": 19,
+            "item": "BUPREN"
+          },
+          {
+            "count": 18,
+            "item": "MORPHINE"
+          },
+          {
+            "count": 17,
+            "item": "MORPH"
+          },
+          {
+            "count": 16,
+            "item": "OPIATE SCREEN"
+          },
+          {
+            "count": 15,
+            "item": "OPIATES"
+          },
+          {
+            "count": 14,
+            "item": "HYDROMORPH"
+          },
+          {
+            "count": 13,
+            "item": "PCP"
+          },
+          {
+            "count": 12,
+            "item": "OPIATE"
+          },
+          {
+            "count": 11,
+            "item": "OTHERS"
+          },
+          {
+            "count": 10,
+            "item": "DUSTER"
+          },
+          {
+            "count": 9,
+            "item": "TAPENTADOL"
+          },
+          {
+            "count": 8,
+            "item": "HYDR-MOR"
+          },
+          {
+            "count": 7,
+            "item": "KETAMINE"
+          },
+          {
+            "count": 6,
+            "item": "HYDROMORP"
+          },
+          {
+            "count": 5,
+            "item": "BUPRENORPHONE"
+          },
+          {
+            "count": 4,
+            "item": "morphine"
+          },
+          {
+            "count": 3,
+            "item": "hydromorphone"
+          },
+          {
+            "count": 2,
+            "item": "HYDROMORPHONE"
+          },
+          {
+            "count": 1,
+            "item": "BUPRENORPHONE, DIFLUORO"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "other",
+      "format": {},
+      "id": 328735923,
+      "name": "Other",
+      "position": 28,
+      "renderTypeName": "text",
+      "tableColumnId": 31936599,
+      "width": 160
+    },
+    {
+      "cachedContents": {
+        "largest": "Y",
+        "non_null": 710,
+        "null": 2873,
+        "smallest": " ",
+        "top": [
+          {
+            "count": 20,
+            "item": "Y"
+          },
+          {
+            "count": 19,
+            "item": "N"
+          },
+          {
+            "count": 18,
+            "item": "y"
+          },
+          {
+            "count": 17,
+            "item": " "
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "any_opioid",
+      "format": {},
+      "id": 328735924,
+      "name": "Any Opioid",
+      "position": 29,
+      "renderTypeName": "text",
+      "tableColumnId": 31936600,
+      "width": 220
+    },
+    {
+      "cachedContents": {
+        "largest": "Pending",
+        "non_null": 3576,
+        "null": 7,
+        "smallest": "accident",
+        "top": [
+          {
+            "count": 20,
+            "item": "Accident"
+          },
+          {
+            "count": 19,
+            "item": "Pending"
+          },
+          {
+            "count": 18,
+            "item": "accident"
+          },
+          {
+            "count": 17,
+            "item": "ACCIDENT"
+          },
+          {
+            "count": 16,
+            "item": "Natural"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "mannerofdeath",
+      "format": {},
+      "id": 328735925,
+      "name": "MannerofDeath",
+      "position": 30,
+      "renderTypeName": "text",
+      "tableColumnId": 31936601,
+      "width": 256
+    },
+    {
+      "cachedContents": {
+        "largest": "RUPTURED CEREBRAL ANEURYSM ASSOCIATED WITH HYPERTENSION AND COCAINE USE",
+        "non_null": 538,
+        "null": 3045,
+        "smallest": "Acetyl Fentanyl, Cocaine, Ethanol, and Fentanyl",
+        "top": [
+          {
+            "count": 20,
+            "item": "Acute Fentanyl Intoxication"
+          },
+          {
+            "count": 19,
+            "item": "Ethanol and Fentanyl"
+          },
+          {
+            "count": 18,
+            "item": "Oxycodone Toxicity"
+          },
+          {
+            "count": 17,
+            "item": "Acute Intoxication due to the Combined Effects of Fentanyl and Heroin"
+          },
+          {
+            "count": 16,
+            "item": "Acute Intoxication Alprazolam, Cocaine, and Heroin"
+          },
+          {
+            "count": 15,
+            "item": "Multidrug Toxicity Including Ethanol, Fentanyl, and Morphine"
+          },
+          {
+            "count": 14,
+            "item": "Multidrug Toxicity Including Cocaine, Methadone, Fentanyl, and Heroin"
+          },
+          {
+            "count": 13,
+            "item": "Acute Intoxication From the Combined Effects of Alcohol, Alprazolam, Lamotrigine, and Fluoxetine"
+          },
+          {
+            "count": 12,
+            "item": "ACUTE HEROIN TOXICITY, HYDROMORPHONE, SERTRALINE, BUTALBITAL USE"
+          },
+          {
+            "count": 11,
+            "item": "Ethanol and Heroin"
+          },
+          {
+            "count": 10,
+            "item": "Acute Fentanyl and Heroin Intoxication"
+          },
+          {
+            "count": 9,
+            "item": "Fentanyl, Cocaine, and Ethanol"
+          },
+          {
+            "count": 8,
+            "item": "Multidrug Toxicity Including Heroin, Ethanol, and Fentanyl"
+          },
+          {
+            "count": 7,
+            "item": "Acute Intoxication due to the Combined Effects of Fentanyl, Morphine and Alprazolam"
+          },
+          {
+            "count": 6,
+            "item": "Intraparenchymal Pontine Hemorrhage/Acute Cocaine"
+          },
+          {
+            "count": 5,
+            "item": "Acute Morphine Intoxication"
+          },
+          {
+            "count": 4,
+            "item": "Acute Intoxication Cocaine, Fentanyl, and Heroin"
+          },
+          {
+            "count": 3,
+            "item": "Acute Fentanyl and Hydroxyzine Intoxication"
+          },
+          {
+            "count": 2,
+            "item": "Acute Heroin and Diphenhydramine Intoxication"
+          },
+          {
+            "count": 1,
+            "item": "Fentanyl, Diazepam, and Citalopram"
+          }
+        ]
+      },
+      "dataTypeName": "text",
+      "fieldName": "amendedmannerofdeath",
+      "format": {},
+      "id": 328735926,
+      "name": "AmendedMannerofDeath",
+      "position": 31,
+      "renderTypeName": "text",
+      "tableColumnId": 31936602,
+      "width": 340
+    },
+    {
+      "cachedContents": {
+        "largest": {
+          "human_address": "{\"address\":\"\",\"city\":\"Woodbridge\",\"state\":\"CT\",\"zip\":\"\"}",
+          "latitude": "41.352933",
+          "longitude": "-73.014356"
+        },
+        "non_null": 3583,
+        "null": 0,
+        "smallest": {
+          "human_address": "{\"address\":\"\",\"city\":\"\",\"state\":\"CT\",\"zip\":\"\"}",
+          "latitude": "41.544654",
+          "longitude": "-72.651713"
+        },
+        "top": [
+          {
+            "count": 20,
+            "item": {
+              "human_address": "{\"address\":\"\",\"city\":\"NEW HAVEN\",\"state\":\"CT\",\"zip\":\"\"}",
+              "latitude": "41.308252",
+              "longitude": "-72.924161"
+            }
+          },
+          {
+            "count": 19,
+            "item": {
+              "human_address": "{\"address\":\"\",\"city\":\"MERIDEN\",\"state\":\"CT\",\"zip\":\"\"}",
+              "latitude": "41.537589",
+              "longitude": "-72.8011"
+            }
+          },
+          {
+            "count": 18,
+            "item": {
+              "human_address": "{\"address\":\"\",\"city\":\"HARTFORD\",\"state\":\"CT\",\"zip\":\"\"}",
+              "latitude": "41.765775",
+              "longitude": "-72.673356"
+            }
+          },
+          {
+            "count": 17,
+            "item": {
+              "human_address": "{\"address\":\"\",\"city\":\"WATERBURY\",\"state\":\"CT\",\"zip\":\"\"}",
+              "latitude": "41.554261",
+              "longitude": "-73.043069"
+            }
+          },
+          {
+            "count": 16,
+            "item": {
+              "human_address": "{\"address\":\"\",\"city\":\"NEW LONDON\",\"state\":\"CT\",\"zip\":\"\"}",
+              "latitude": "41.355167",
+              "longitude": "-72.099561"
+            }
+          },
+          {
+            "count": 15,
+            "item": {
+              "human_address": "{\"address\":\"\",\"city\":\"NEW BRITAIN\",\"state\":\"CT\",\"zip\":\"\"}",
+              "latitude": "41.667528",
+              "longitude": "-72.783437"
+            }
+          },
+          {
+            "count": 14,
+            "item": {
+              "human_address": "{\"address\":\"\",\"city\":\"BRIDGEPORT\",\"state\":\"CT\",\"zip\":\"\"}",
+              "latitude": "41.179195",
+              "longitude": "-73.189476"
+            }
+          },
+          {
+            "count": 13,
+            "item": {
+              "human_address": "{\"address\":\"\",\"city\":\"DANBURY\",\"state\":\"CT\",\"zip\":\"\"}",
+              "latitude": "41.393666",
+              "longitude": "-73.451539"
+            }
+          },
+          {
+            "count": 12,
+            "item": {
+              "human_address": "{\"address\":\"\",\"city\":\"NORWICH\",\"state\":\"CT\",\"zip\":\"\"}",
+              "latitude": "41.524304",
+              "longitude": "-72.075821"
+            }
+          },
+          {
+            "count": 11,
+            "item": {
+              "human_address": "{\"address\":\"\",\"city\":\"BRISTOL\",\"state\":\"CT\",\"zip\":\"\"}",
+              "latitude": "41.673037",
+              "longitude": "-72.945791"
+            }
+          },
+          {
+            "count": 10,
+            "item": {
+              "human_address": "{\"address\":\"\",\"city\":\"TORRINGTON\",\"state\":\"CT\",\"zip\":\"\"}",
+              "latitude": "41.812186",
+              "longitude": "-73.101552"
+            }
+          },
+          {
+            "count": 9,
+            "item": {
+              "human_address": "{\"address\":\"\",\"city\":\"Waterbury\",\"state\":\"CT\",\"zip\":\"\"}",
+              "latitude": "41.554261",
+              "longitude": "-73.043069"
+            }
+          },
+          {
+            "count": 8,
+            "item": {
+              "human_address": "{\"address\":\"\",\"city\":\"Hartford\",\"state\":\"CT\",\"zip\":\"\"}",
+              "latitude": "41.765775",
+              "longitude": "-72.673356"
+            }
+          },
+          {
+            "count": 7,
+            "item": {
+              "human_address": "{\"address\":\"\",\"city\":\"New Haven\",\"state\":\"CT\",\"zip\":\"\"}",
+              "latitude": "41.308252",
+              "longitude": "-72.924161"
+            }
+          },
+          {
+            "count": 6,
+            "item": {
+              "human_address": "{\"address\":\"\",\"city\":\"Bridgeport\",\"state\":\"CT\",\"zip\":\"\"}",
+              "latitude": "41.179195",
+              "longitude": "-73.189476"
+            }
+          },
+          {
+            "count": 5,
+            "item": {
+              "human_address": "{\"address\":\"\",\"city\":\"New Britain\",\"state\":\"CT\",\"zip\":\"\"}",
+              "latitude": "41.667528",
+              "longitude": "-72.783437"
+            }
+          },
+          {
+            "count": 4,
+            "item": {
+              "human_address": "{\"address\":\"\",\"city\":\"Meriden\",\"state\":\"CT\",\"zip\":\"\"}",
+              "latitude": "41.537589",
+              "longitude": "-72.8011"
+            }
+          },
+          {
+            "count": 3,
+            "item": {
+              "human_address": "{\"address\":\"\",\"city\":\"Norwich\",\"state\":\"CT\",\"zip\":\"\"}",
+              "latitude": "41.524304",
+              "longitude": "-72.075821"
+            }
+          },
+          {
+            "count": 2,
+            "item": {
+              "human_address": "{\"address\":\"\",\"city\":\"Bristol\",\"state\":\"CT\",\"zip\":\"\"}",
+              "latitude": "41.673037",
+              "longitude": "-72.945791"
+            }
+          },
+          {
+            "count": 1,
+            "item": {
+              "human_address": "{\"address\":\"\",\"city\":\"Torrington\",\"state\":\"CT\",\"zip\":\"\"}",
+              "latitude": "41.812186",
+              "longitude": "-73.101552"
+            }
+          }
+        ]
+      },
+      "dataTypeName": "location",
+      "fieldName": "deathloc",
+      "format": {},
+      "id": 328735927,
+      "name": "DeathLoc",
+      "position": 32,
+      "renderTypeName": "location",
+      "subColumnTypes": [
+        "human_address",
+        "latitude",
+        "longitude",
+        "machine_address",
+        "needs_recoding"
+      ],
+      "tableColumnId": 31936604,
+      "width": 196
+    }
+  ],
+  "createdAt": 1444407518,
+  "description": "A listing of each accidental death associated with drug overdose in Connecticut from 2012 to June 2017. A \"Y\" value under the different substance columns indicates that particular substance was detected.\r\n\r\nData are derived from an investigation by the Office of the Chief Medical Examiner which includes the toxicity report, death certificate, as well as a scene investigation.\r\n\r\nThe “Morphine (Not Heroin)” values are related to the differences between how Morphine and Heroin are metabolized and therefor detected in the toxicity results. Heroin metabolizes to 6-MAM which then metabolizes to morphine. 6-MAM is unique to heroin, and has a short half-life (as does heroin itself). Thus, in some heroin deaths, the toxicity results will not indicate whether the morphine is from heroin or prescription morphine. In these cases the Medical Examiner may be able to determine the cause based on the scene investigation (such as finding heroin needles). If they find prescription morphine at the scene it is certified as “Morphine (not heroin).” Therefor, the Cause of Death may indicate Morphine, but the Heroin or Morphine (Not Heroin) may not be indicated.\r\n\r\n “Any Opioid” – If the Medical Examiner cannot conclude whether it’s RX Morphine or heroin based morphine in the toxicity results, that column may be checked",
+  "displayType": "table",
+  "downloadCount": 16519,
+  "flags": [
+    "default",
+    "restorable",
+    "restorePossibleForType"
+  ],
+  "grants": [
+    {
+      "flags": [
+        "public"
+      ],
+      "inherited": false,
+      "type": "viewer"
+    }
+  ],
+  "hideFromCatalog": false,
+  "hideFromDataJson": false,
+  "id": "rybz-nyjw",
+  "indexUpdatedAt": 1509988795,
+  "license": {
+    "name": "Public Domain"
+  },
+  "licenseId": "PUBLIC_DOMAIN",
+  "metadata": {
+    "availableDisplayTypes": [
+      "table",
+      "fatrow",
+      "page"
+    ],
+    "custom_fields": {
+      "Agency": {
+        "Agency": "Office of the Chief Medical Examiner"
+      }
+    },
+    "jsonQuery": {
+      "order": [
+        {
+          "ascending": true,
+          "columnFieldName": "death_state"
+        }
+      ]
+    },
+    "rdfSubject": "0",
+    "renderTypeConfig": {
+      "visible": {
+        "table": true
+      }
+    },
+    "rowIdentifier": 328735896,
+    "rowLabel": "Deaths"
+  },
+  "name": "Accidental Drug Related Deaths 2012-June 2017",
+  "newBackend": false,
+  "numberOfComments": 0,
+  "oid": 27185402,
+  "owner": {
+    "displayName": "Tyler Kleykamp",
+    "flags": [
+      "organizationMember"
+    ],
+    "id": "cvy9-n6sb",
+    "screenName": "Tyler Kleykamp",
+    "type": "interactive"
+  },
+  "provenance": "official",
+  "publicationAppendEnabled": false,
+  "publicationDate": 1509988029,
+  "publicationGroup": 4729826,
+  "publicationStage": "published",
+  "query": {
+    "orderBys": [
+      {
+        "ascending": true,
+        "expression": {
+          "columnId": 328735905,
+          "type": "column"
+        }
+      }
+    ]
+  },
+  "resourceName": "deaths",
+  "rights": [
+    "read"
+  ],
+  "rowIdentifierColumnId": 328735896,
+  "rowsUpdatedAt": 1509987989,
+  "rowsUpdatedBy": "cvy9-n6sb",
+  "tableAuthor": {
+    "displayName": "Tyler Kleykamp",
+    "flags": [
+      "organizationMember"
+    ],
+    "id": "cvy9-n6sb",
+    "screenName": "Tyler Kleykamp",
+    "type": "interactive"
+  },
+  "tableId": 14595436,
+  "tags": [
+    "death",
+    "drug",
+    "overdose",
+    "heroin",
+    "opioid",
+    "substance abuse"
+  ],
+  "totalTimesRated": 0,
+  "viewCount": 9148,
+  "viewLastModified": 1509988029,
+  "viewType": "tabular"
+}

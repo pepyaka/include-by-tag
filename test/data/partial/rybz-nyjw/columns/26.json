@@ -1,0 +1,99 @@
+{
+  "id": 328735926,
+  "name": "AmendedMannerofDeath",
+  "dataTypeName": "text",
+  "fieldName": "amendedmannerofdeath",
+  "position": 31,
+  "renderTypeName": "text",
+  "tableColumnId": 31936602,
+  "width": 340,
+  "cachedContents": {
+    "largest": "RUPTURED CEREBRAL ANEURYSM ASSOCIATED WITH HYPERTENSION AND COCAINE USE",
+    "non_null": 538,
+    "null": 3045,
+    "top": [
+      {
+        "item": "Acute Fentanyl Intoxication",
+        "count": 20
+      },
+      {
+        "item": "Ethanol and Fentanyl",
+        "count": 19
+      },
+      {
+        "item": "Oxycodone Toxicity",
+        "count": 18
+      },
+      {
+        "item": "Acute Intoxication due to the Combined Effects of Fentanyl and Heroin",
+        "count": 17
+      },
+      {
+        "item": "Acute Intoxication Alprazolam, Cocaine, and Heroin",
+        "count": 16
+      },
+      {
+        "item": "Multidrug Toxicity Including Ethanol, Fentanyl, and Morphine",
+        "count": 15
+      },
+      {
+        "item": "Multidrug Toxicity Including Cocaine, Methadone, Fentanyl, and Heroin",
+        "count": 14
+      },
+      {
+        "item": "Acute Intoxication From the Combined Effects of Alcohol, Alprazolam, Lamotrigine, and Fluoxetine",
+        "count": 13
+      },
+      {
+        "item": "ACUTE HEROIN TOXICITY, HYDROMORPHONE, SERTRALINE, BUTALBITAL USE",
+        "count": 12
+      },
+      {
+        "item": "Ethanol and Heroin",
+        "count": 11
+      },
+      {
+        "item": "Acute Fentanyl and Heroin Intoxication",
+        "count": 10
+      },
+      {
+        "item": "Fentanyl, Cocaine, and Ethanol",
+        "count": 9
+      },
+      {
+        "item": "Multidrug Toxicity Including Heroin, Ethanol, and Fentanyl",
+        "count": 8
+      },
+      {
+        "item": "Acute Intoxication due to the Combined Effects of Fentanyl, Morphine and Alprazolam",
+        "count": 7
+      },
+      {
+        "item": "Intraparenchymal Pontine Hemorrhage/Acute Cocaine",
+        "count": 6
+      },
+      {
+        "item": "Acute Morphine Intoxication",
+        "count": 5
+      },
+      {
+        "item": "Acute Intoxication Cocaine, Fentanyl, and Heroin",
+        "count": 4
+      },
+      {
+        "item": "Acute Fentanyl and Hydroxyzine Intoxication",
+        "count": 3
+      },
+      {
+        "item": "Acute Heroin and Diphenhydramine Intoxication",
+        "count": 2
+      },
+      {
+        "item": "Fentanyl, Diazepam, and Citalopram",
+        "count": 1
+      }
+    ],
+    "smallest": "Acetyl Fentanyl, Cocaine, Ethanol, and Fentanyl"
+  },
+  "format": {}
+}

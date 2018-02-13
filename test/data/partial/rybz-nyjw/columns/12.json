@@ -1,0 +1,55 @@
+{
+  "id": 328735906,
+  "name": "Death County",
+  "dataTypeName": "text",
+  "fieldName": "death_county",
+  "position": 11,
+  "renderTypeName": "text",
+  "tableColumnId": 31936582,
+  "width": 244,
+  "cachedContents": {
+    "largest": "WINDHAM",
+    "non_null": 2405,
+    "null": 1178,
+    "top": [
+      {
+        "item": "WINDHAM",
+        "count": 20
+      },
+      {
+        "item": "LITCHFIELD",
+        "count": 19
+      },
+      {
+        "item": "HARTFORD",
+        "count": 18
+      },
+      {
+        "item": "NEW HAVEN",
+        "count": 17
+      },
+      {
+        "item": "MIDDLESEX",
+        "count": 16
+      },
+      {
+        "item": "FAIRFIELD",
+        "count": 15
+      },
+      {
+        "item": "NEW LONDON",
+        "count": 14
+      },
+      {
+        "item": "TOLLAND",
+        "count": 13
+      },
+      {
+        "item": "USA",
+        "count": 12
+      }
+    ],
+    "smallest": "FAIRFIELD"
+  },
+  "format": {}
+}

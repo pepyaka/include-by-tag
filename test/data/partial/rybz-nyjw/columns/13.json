@@ -1,0 +1,39 @@
+{
+  "id": 328735907,
+  "name": "Location",
+  "dataTypeName": "text",
+  "fieldName": "location",
+  "position": 12,
+  "renderTypeName": "text",
+  "tableColumnId": 31936583,
+  "width": 196,
+  "cachedContents": {
+    "largest": "Residence",
+    "non_null": 3561,
+    "null": 22,
+    "top": [
+      {
+        "item": "Other",
+        "count": 20
+      },
+      {
+        "item": "Residence",
+        "count": 19
+      },
+      {
+        "item": "Hospital",
+        "count": 18
+      },
+      {
+        "item": "Convalescent Home",
+        "count": 17
+      },
+      {
+        "item": "Hospice",
+        "count": 16
+      }
+    ],
+    "smallest": "Convalescent Home"
+  },
+  "format": {}
+}

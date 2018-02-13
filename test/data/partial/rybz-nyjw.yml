@@ -1,0 +1,54 @@
+---
+attribution: "Office of the Chief Medical Examiner"
+attributionLink: "http://www.ct.gov/ocme"
+averageRating: 0
+category: "Health and Human Services"
+columns: "!include rybz-nyjw/columns.yml"
+createdAt: "!include rybz-nyjw/createdAt.yml"
+description: "A listing of each accidental death associated with drug overdose in Connecticut from 2012 to June 2017. A \"Y\" value under the different substance columns indicates that particular substance was detected.\r\n\r\nData are derived from an investigation by the Office of the Chief Medical Examiner which includes the toxicity report, death certificate, as well as a scene investigation.\r\n\r\nThe “Morphine (Not Heroin)” values are related to the differences between how Morphine and Heroin are metabolized and therefor detected in the toxicity results. Heroin metabolizes to 6-MAM which then metabolizes to morphine. 6-MAM is unique to heroin, and has a short half-life (as does heroin itself). Thus, in some heroin deaths, the toxicity results will not indicate whether the morphine is from heroin or prescription morphine. In these cases the Medical Examiner may be able to determine the cause based on the scene investigation (such as finding heroin needles). If they find prescription morphine at the scene it is certified as “Morphine (not heroin).” Therefor, the Cause of Death may indicate Morphine, but the Heroin or Morphine (Not Heroin) may not be indicated.\r\n\r\n “Any Opioid” – If the Medical Examiner cannot conclude whether it’s RX Morphine or heroin based morphine in the toxicity results, that column may be checked"
+displayType: "table"
+downloadCount: 16519
+flags: 
+  - "default"
+  - "restorable"
+  - "restorePossibleForType"
+grants: "!include rybz-nyjw/grants.yml"
+hideFromCatalog: false
+hideFromDataJson: false
+id: "rybz-nyjw"
+indexUpdatedAt: 1509988795
+license: 
+  name: "Public Domain"
+licenseId: "PUBLIC_DOMAIN"
+metadata: "!include rybz-nyjw/metadata.yml"
+name: "Accidental Drug Related Deaths 2012-June 2017"
+newBackend: false
+numberOfComments: 0
+oid: 27185402
+owner: "!include ./rybz-nyjw/owner.yml"
+provenance: "official"
+publicationAppendEnabled: false
+publicationDate: 1509988029
+publicationGroup: 4729826
+publicationStage: "published"
+query: "!include rybz-nyjw/query.yml"
+resourceName: "deaths"
+rights: 
+  - "read"
+rowIdentifierColumnId: 328735896
+rowsUpdatedAt: 1509987989
+rowsUpdatedBy: "cvy9-n6sb"
+tableAuthor: "!include rybz-nyjw/tableAuthor.yml"
+tableId: 14595436
+tags: 
+  - "death"
+  - "drug"
+  - "overdose"
+  - "heroin"
+  - "opioid"
+  - "substance abuse"
+totalTimesRated: 0
+viewCount: 9148
+viewLastModified: 1509988029
+viewType: "tabular"
+

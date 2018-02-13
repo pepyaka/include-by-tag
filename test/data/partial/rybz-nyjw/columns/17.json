@@ -1,0 +1,31 @@
+{
+  "id": 328735911,
+  "name": "Heroin",
+  "dataTypeName": "text",
+  "fieldName": "heroin",
+  "position": 16,
+  "renderTypeName": "text",
+  "tableColumnId": 31936587,
+  "width": 172,
+  "cachedContents": {
+    "largest": "Y",
+    "non_null": 1936,
+    "null": 1647,
+    "top": [
+      {
+        "item": "Y",
+        "count": 20
+      },
+      {
+        "item": "y",
+        "count": 19
+      },
+      {
+        "item": " ",
+        "count": 18
+      }
+    ],
+    "smallest": " "
+  },
+  "format": {}
+}

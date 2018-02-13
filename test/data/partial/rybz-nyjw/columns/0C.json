@@ -1,0 +1,101 @@
+{
+  "id": 328735900,
+  "name": "Age",
+  "dataTypeName": "number",
+  "fieldName": "age",
+  "position": 5,
+  "renderTypeName": "number",
+  "tableColumnId": 31936576,
+  "width": 136,
+  "cachedContents": {
+    "largest": "87",
+    "non_null": 3581,
+    "average": "41.99972074839430",
+    "null": 2,
+    "top": [
+      {
+        "item": "45",
+        "count": 20
+      },
+      {
+        "item": "44",
+        "count": 19
+      },
+      {
+        "item": "30",
+        "count": 18
+      },
+      {
+        "item": "50",
+        "count": 17
+      },
+      {
+        "item": "26",
+        "count": 16
+      },
+      {
+        "item": "58",
+        "count": 15
+      },
+      {
+        "item": "51",
+        "count": 14
+      },
+      {
+        "item": "29",
+        "count": 13
+      },
+      {
+        "item": "35",
+        "count": 12
+      },
+      {
+        "item": "53",
+        "count": 11
+      },
+      {
+        "item": "54",
+        "count": 10
+      },
+      {
+        "item": "47",
+        "count": 9
+      },
+      {
+        "item": "49",
+        "count": 8
+      },
+      {
+        "item": "52",
+        "count": 7
+      },
+      {
+        "item": "39",
+        "count": 6
+      },
+      {
+        "item": "55",
+        "count": 5
+      },
+      {
+        "item": "43",
+        "count": 4
+      },
+      {
+        "item": "46",
+        "count": 3
+      },
+      {
+        "item": "28",
+        "count": 2
+      },
+      {
+        "item": "48",
+        "count": 1
+      }
+    ],
+    "smallest": "14",
+    "sum": "150401"
+  },
+  "format": {}
+}

@@ -1,0 +1,23 @@
+{
+  "id": 328735920,
+  "name": "Amphet",
+  "dataTypeName": "text",
+  "fieldName": "amphet",
+  "position": 25,
+  "renderTypeName": "text",
+  "tableColumnId": 31936596,
+  "width": 172,
+  "cachedContents": {
+    "largest": "Y",
+    "non_null": 81,
+    "null": 3502,
+    "top": [
+      {
+        "item": "Y",
+        "count": 20
+      }
+    ],
+    "smallest": "Y"
+  },
+  "format": {}
+}

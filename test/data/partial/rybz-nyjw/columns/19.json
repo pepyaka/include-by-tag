@@ -1,0 +1,39 @@
+{
+  "id": 328735913,
+  "name": "Fentanyl",
+  "dataTypeName": "text",
+  "fieldName": "fentanyl",
+  "position": 18,
+  "renderTypeName": "text",
+  "tableColumnId": 31936589,
+  "width": 196,
+  "cachedContents": {
+    "largest": "Y POPS",
+    "non_null": 1114,
+    "null": 2469,
+    "top": [
+      {
+        "item": "Y",
+        "count": 20
+      },
+      {
+        "item": "Y (PTCH)",
+        "count": 19
+      },
+      {
+        "item": "Y POPS",
+        "count": 18
+      },
+      {
+        "item": "Y-A",
+        "count": 17
+      },
+      {
+        "item": "y",
+        "count": 16
+      }
+    ],
+    "smallest": "y"
+  },
+  "format": {}
+}

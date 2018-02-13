@@ -1,0 +1,23 @@
+{
+  "id": 328735921,
+  "name": "Tramad",
+  "dataTypeName": "text",
+  "fieldName": "tramad",
+  "position": 26,
+  "renderTypeName": "text",
+  "tableColumnId": 31936597,
+  "width": 172,
+  "cachedContents": {
+    "largest": "Y",
+    "non_null": 79,
+    "null": 3504,
+    "top": [
+      {
+        "item": "Y",
+        "count": 20
+      }
+    ],
+    "smallest": "Y"
+  },
+  "format": {}
+}

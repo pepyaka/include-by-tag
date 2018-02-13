@@ -1,0 +1,47 @@
+{
+  "id": 328735922,
+  "name": "Morphine (not heroin)",
+  "dataTypeName": "text",
+  "fieldName": "morphine_not_heroin",
+  "position": 27,
+  "renderTypeName": "text",
+  "tableColumnId": 31936598,
+  "width": 352,
+  "cachedContents": {
+    "largest": " Y",
+    "non_null": 50,
+    "null": 3533,
+    "top": [
+      {
+        "item": "Y",
+        "count": 20
+      },
+      {
+        "item": "NO RX BUT STRAWS",
+        "count": 19
+      },
+      {
+        "item": "STOLE MEDS",
+        "count": 18
+      },
+      {
+        "item": "y",
+        "count": 17
+      },
+      {
+        "item": "PCP neg",
+        "count": 16
+      },
+      {
+        "item": " ",
+        "count": 15
+      },
+      {
+        "item": " Y",
+        "count": 14
+      }
+    ],
+    "smallest": " "
+  },
+  "format": {}
+}

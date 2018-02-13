@@ -1,0 +1,99 @@
+{
+  "id": 328735904,
+  "name": "Death City",
+  "dataTypeName": "text",
+  "fieldName": "death_city",
+  "position": 9,
+  "renderTypeName": "text",
+  "tableColumnId": 31936580,
+  "width": 220,
+  "cachedContents": {
+    "largest": "WOODSTOCK",
+    "non_null": 3579,
+    "null": 4,
+    "top": [
+      {
+        "item": "NEW HAVEN",
+        "count": 20
+      },
+      {
+        "item": "MERIDEN",
+        "count": 19
+      },
+      {
+        "item": "HARTFORD",
+        "count": 18
+      },
+      {
+        "item": "WATERBURY",
+        "count": 17
+      },
+      {
+        "item": "NEW LONDON",
+        "count": 16
+      },
+      {
+        "item": "NEW BRITAIN",
+        "count": 15
+      },
+      {
+        "item": "MANCHESTER",
+        "count": 14
+      },
+      {
+        "item": "BRIDGEPORT",
+        "count": 13
+      },
+      {
+        "item": "MIDDLETOWN",
+        "count": 12
+      },
+      {
+        "item": "DANBURY",
+        "count": 11
+      },
+      {
+        "item": "NORWICH",
+        "count": 10
+      },
+      {
+        "item": "BRISTOL",
+        "count": 9
+      },
+      {
+        "item": "TORRINGTON",
+        "count": 8
+      },
+      {
+        "item": "ENFIELD",
+        "count": 7
+      },
+      {
+        "item": "MILFORD",
+        "count": 6
+      },
+      {
+        "item": "WEST HAVEN",
+        "count": 5
+      },
+      {
+        "item": "EAST HARTFORD",
+        "count": 4
+      },
+      {
+        "item": "NAUGATUCK",
+        "count": 3
+      },
+      {
+        "item": "WILLIMANTIC",
+        "count": 2
+      },
+      {
+        "item": "STRATFORD",
+        "count": 1
+      }
+    ],
+    "smallest": "06340"
+  },
+  "format": {}
+}

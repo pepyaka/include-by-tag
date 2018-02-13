@@ -1,0 +1,95 @@
+{
+  "id": 328735901,
+  "name": "Residence City",
+  "dataTypeName": "text",
+  "fieldName": "residence_city",
+  "position": 6,
+  "renderTypeName": "text",
+  "tableColumnId": 31936577,
+  "width": 268,
+  "cachedContents": {
+    "largest": "ZIONSVILLE",
+    "non_null": 3490,
+    "null": 93,
+    "top": [
+      {
+        "item": "NEW HAVEN",
+        "count": 20
+      },
+      {
+        "item": "WATERBURY",
+        "count": 19
+      },
+      {
+        "item": "NEW BRITAIN",
+        "count": 18
+      },
+      {
+        "item": "BRIDGEPORT",
+        "count": 17
+      },
+      {
+        "item": "HARTFORD",
+        "count": 16
+      },
+      {
+        "item": "BRISTOL",
+        "count": 15
+      },
+      {
+        "item": "MERIDEN",
+        "count": 14
+      },
+      {
+        "item": "NORWICH",
+        "count": 13
+      },
+      {
+        "item": "WEST HAVEN",
+        "count": 12
+      },
+      {
+        "item": "EAST HARTFORD",
+        "count": 11
+      },
+      {
+        "item": "TORRINGTON",
+        "count": 10
+      },
+      {
+        "item": "UNKNOWN",
+        "count": 9
+      },
+      {
+        "item": "DANBURY",
+        "count": 8
+      },
+      {
+        "item": "STAMFORD",
+        "count": 7
+      },
+      {
+        "item": "MANCHESTER",
+        "count": 6
+      },
+      {
+        "item": "STRATFORD",
+        "count": 5
+      },
+      {
+        "item": "CHESHIRE",
+        "count": 4
+      },
+      {
+        "item": "NEWINGTON",
+        "count": 3
+      },
+      {
+        "item": "WILLIMANTIC",
+        "count": 2
+      }
+    ],
+    "smallest": "ALFRED STATION"
+  },
+  "format": {}
+}

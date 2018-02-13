@@ -1,0 +1,11 @@
+{
+  "availableDisplayTypes": "!include ../rybz-nyjw/metadata/availableDisplayTypes.json",
+  "custom_fields": "!include metadata/jsonQuery/order/../../custom_fields.json",
+  "jsonQuery": {
+    "order": "!include metadata/jsonQuery/order/*.json"
+  },
+  "rdfSubject": "0",
+  "renderTypeConfig": "!include ./metadata/renderTypeConfig.json",
+  "rowIdentifier": 328735896,
+  "rowLabel": "Deaths"
+}

@@ -1,0 +1,17 @@
+availableDisplayTypes: 
+  - "table"
+  - "fatrow"
+  - "page"
+custom_fields: 
+  Agency: 
+    Agency: "Office of the Chief Medical Examiner"
+jsonQuery: 
+  order: 
+    - ascending: true
+      columnFieldName: "death_state"
+rdfSubject: "0"
+renderTypeConfig: 
+  visible: 
+    table: true
+rowIdentifier: 328735896
+rowLabel: "Deaths"

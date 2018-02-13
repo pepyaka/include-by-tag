@@ -1,0 +1,99 @@
+{
+  "id": 328735909,
+  "name": "InjuryPlace",
+  "dataTypeName": "text",
+  "fieldName": "injuryplace",
+  "position": 14,
+  "renderTypeName": "text",
+  "tableColumnId": 31936585,
+  "width": 232,
+  "cachedContents": {
+    "largest": "Yard",
+    "non_null": 3506,
+    "null": 77,
+    "top": [
+      {
+        "item": "Other",
+        "count": 20
+      },
+      {
+        "item": "Residence",
+        "count": 19
+      },
+      {
+        "item": "Hospital",
+        "count": 18
+      },
+      {
+        "item": "Other (unknown)",
+        "count": 17
+      },
+      {
+        "item": "Hotel or Motel",
+        "count": 16
+      },
+      {
+        "item": "Unknown",
+        "count": 15
+      },
+      {
+        "item": "Residential Building",
+        "count": 14
+      },
+      {
+        "item": "In Vehicle",
+        "count": 13
+      },
+      {
+        "item": "Parking Lot",
+        "count": 12
+      },
+      {
+        "item": "Street",
+        "count": 11
+      },
+      {
+        "item": "Automobile",
+        "count": 10
+      },
+      {
+        "item": "Other indoor Area",
+        "count": 9
+      },
+      {
+        "item": "Restaurant",
+        "count": 8
+      },
+      {
+        "item": "Other, Other Outdoor Area",
+        "count": 7
+      },
+      {
+        "item": "Hospital or Emergency Room",
+        "count": 6
+      },
+      {
+        "item": "Other, Park or Recreational Area",
+        "count": 5
+      },
+      {
+        "item": "Porch",
+        "count": 4
+      },
+      {
+        "item": "Driveway",
+        "count": 3
+      },
+      {
+        "item": "Apartment",
+        "count": 2
+      },
+      {
+        "item": "Halfway House",
+        "count": 1
+      }
+    ],
+    "smallest": "Alleyway"
+  },
+  "format": {}
+}

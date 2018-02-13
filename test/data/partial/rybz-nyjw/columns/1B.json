@@ -1,0 +1,25 @@
+{
+  "id": 328735915,
+  "name": "Oxymorphone",
+  "dataTypeName": "text",
+  "fieldName": "oxym",
+  "position": 20,
+  "renderTypeName": "text",
+  "tableColumnId": 31936591,
+  "width": 148,
+  "cachedContents": {
+    "largest": "Y",
+    "non_null": 95,
+    "null": 3488,
+    "top": [
+      {
+        "item": "Y",
+        "count": 20
+      }
+    ],
+    "smallest": "Y"
+  },
+  "format": {
+    "align": "left"
+  }
+}

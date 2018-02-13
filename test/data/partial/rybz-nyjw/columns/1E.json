@@ -1,0 +1,29 @@
+{
+  "id": 328735918,
+  "name": "Benzodiazepine",
+  "dataTypeName": "text",
+  "fieldName": "benzo_s",
+  "position": 23,
+  "renderTypeName": "text",
+  "tableColumnId": 31936594,
+  "width": 184,
+  "cachedContents": {
+    "largest": "Y",
+    "non_null": 884,
+    "null": 2699,
+    "top": [
+      {
+        "item": "Y",
+        "count": 20
+      },
+      {
+        "item": "y",
+        "count": 19
+      }
+    ],
+    "smallest": "y"
+  },
+  "format": {
+    "align": "left"
+  }
+}

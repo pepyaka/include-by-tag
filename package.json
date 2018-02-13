@@ -41,6 +41,7 @@
     "glob": "^7.1.2"
   },
   "devDependencies": {
+    "js-yaml": "^3.10.0",
     "tap": "^10.7.0"
   }
 }

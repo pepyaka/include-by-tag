@@ -1,0 +1,30 @@
+{
+  "id": 328735917,
+  "name": "Hydrocodone",
+  "dataTypeName": "text",
+  "fieldName": "hydr_cod",
+  "position": 22,
+  "renderTypeName": "text",
+  "tableColumnId": 31936593,
+  "width": 196,
+  "cachedContents": {
+    "largest": "Y",
+    "non_null": 98,
+    "null": 3485,
+    "top": [
+      {
+        "item": "Y",
+        "count": 20
+      },
+      {
+        "item": "y",
+        "count": 19
+      }
+    ],
+    "smallest": "y"
+  },
+  "format": {
+    "displayStyle": "plain",
+    "align": "left"
+  }
+}

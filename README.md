@@ -67,9 +67,10 @@ And if we will reading main.json config we can asynchronously read included
 files:
 ```
 main.json ->| entries.json ->| colors.json ->|
+            |         boolean.json         ->|
             |         number.json          ->|
             |         string.json          ->|
-            |         boolean.json         ->|
+
 -------------------------------------------->| Full config
 ```
 
@@ -89,9 +90,10 @@ Final JSON will look like:
         ]
     },
     "templates": [
+        { "name": "boolean", "prop": "Bisected world" },
         { "name": "number", "prop": "Final countdown" },
-        { "name": "string", "prop": "A word is enough to the wise" },
-        { "name": "boolean", "prop": "Bisected world" }
+        { "name": "string", "prop": "A word is enough to the wise" }
+
     ]
 }
 ```
@@ -99,25 +101,28 @@ Final JSON will look like:
 
 ```javascript
 const IBT = require('include-by-tag');
+const yaml = require('js-yaml');
 
 const options = {
-    parser: JSON.parser,
-    includeTag: '!include'
+    parser: { parse: yaml.safeLoad },
+    includeTag: '!Include'
 };
 
 const ibt = new IBT(options);
 
-ibt.read('/etc/superapp/config.json', '/usr/lib/superapp/config.json')
+ibt.read('/etc/superapp/config.yml', '/usr/lib/superapp/config.yml')
     .then(config => {
         console.log(config);
     });
 ```
-Include string recognize [globs](https://www.npmjs.com/package/glob). All globs interpreted like array. So value `!inlude tests/*.json` and file `test/first.json` with content `{ "first": "test" }` will be recognized as
+~include~ string recognize [globs](https://www.npmjs.com/package/glob). All globs interpreted like array. So value `!include tests/*.json` and file `tests/first.json` with content `{ "first": "test" }` will be recognized as
 ```json
 {
   "tests": [{ "first": "test" }]
 }
 ```
+Included files are sorted alphabetically.
+
 ## API
 
 #### new IBT(options);

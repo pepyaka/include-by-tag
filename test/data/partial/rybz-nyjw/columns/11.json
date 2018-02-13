@@ -1,0 +1,55 @@
+{
+  "id": 328735905,
+  "name": "Death State",
+  "dataTypeName": "text",
+  "fieldName": "death_state",
+  "position": 10,
+  "renderTypeName": "text",
+  "tableColumnId": 31936581,
+  "width": 232,
+  "cachedContents": {
+    "largest": "CTUCTnCTkCTnCToCTwCTnCT",
+    "non_null": 1702,
+    "null": 1881,
+    "top": [
+      {
+        "item": "CT",
+        "count": 20
+      },
+      {
+        "item": "CTCCTTCT",
+        "count": 19
+      },
+      {
+        "item": "CTNCTYCT",
+        "count": 18
+      },
+      {
+        "item": "CTUCTnCTkCTnCToCTwCTnCT",
+        "count": 17
+      },
+      {
+        "item": "CTMCTACT",
+        "count": 16
+      },
+      {
+        "item": "CTFCTLCT",
+        "count": 15
+      },
+      {
+        "item": "CTSCTDCT",
+        "count": 14
+      },
+      {
+        "item": "CTSCTCCT",
+        "count": 13
+      },
+      {
+        "item": "CTNCTJCT",
+        "count": 12
+      }
+    ],
+    "smallest": "CT"
+  },
+  "format": {}
+}

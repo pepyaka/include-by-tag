@@ -1,0 +1,99 @@
+{
+  "id": 328735908,
+  "name": "DescriptionofInjury",
+  "dataTypeName": "text",
+  "fieldName": "descriptionofinjury",
+  "position": 13,
+  "renderTypeName": "text",
+  "tableColumnId": 31936584,
+  "width": 328,
+  "cachedContents": {
+    "largest": "Used Oxycodone",
+    "non_null": 998,
+    "null": 2585,
+    "top": [
+      {
+        "item": "Substance Abuse",
+        "count": 20
+      },
+      {
+        "item": "substance abuse",
+        "count": 19
+      },
+      {
+        "item": "Drug Use",
+        "count": 18
+      },
+      {
+        "item": "substance abuse (injection)",
+        "count": 17
+      },
+      {
+        "item": "Ingestion",
+        "count": 16
+      },
+      {
+        "item": "drug use",
+        "count": 15
+      },
+      {
+        "item": "SUBSTANCE ABUSE",
+        "count": 14
+      },
+      {
+        "item": "Substance abuse",
+        "count": 13
+      },
+      {
+        "item": "Drug use",
+        "count": 12
+      },
+      {
+        "item": "Took Medications",
+        "count": 11
+      },
+      {
+        "item": "Prescription Medicine Abuse",
+        "count": 10
+      },
+      {
+        "item": "USED MULTIPLE MEDICATIONS",
+        "count": 9
+      },
+      {
+        "item": "Took another person's methadone",
+        "count": 8
+      },
+      {
+        "item": "Abused prescription medications",
+        "count": 7
+      },
+      {
+        "item": "Combined Alcohol and Medication",
+        "count": 6
+      },
+      {
+        "item": "Took opiate",
+        "count": 5
+      },
+      {
+        "item": "Medication and alcohol abuse",
+        "count": 4
+      },
+      {
+        "item": "Injected Prescription Medications and Crushed Pills",
+        "count": 3
+      },
+      {
+        "item": "Used cocaine",
+        "count": 2
+      },
+      {
+        "item": "Drug Abuse",
+        "count": 1
+      }
+    ],
+    "smallest": "Abuse"
+  },
+  "format": {}
+}
